@@ -1,0 +1,5 @@
+tensorflow>=2.16
+opencv-python>=4.8,<5  # 5.x removed the Caffe importer used by the SSD face detector
+numpy
+matplotlib
+scikit-learn
